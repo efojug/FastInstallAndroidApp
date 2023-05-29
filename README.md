@@ -2,7 +2,7 @@
 Making it faster and more convenient for you to install Android App 
 # Please note that there is currently no English translation for this program. The author is Chinese. If you can help the author improve their English translation, you can download it yourself and submit pull requests. Thank you very much 
 # How to use it? 
-首先，你需要在本地部署Android Debug Bridge (adb)环境，并将其添加到环境变量，使其可以在命令提示符中直接通过"adb"命令调用，而无需填写其他路径 
+首先，你需要在本地部署Android Debug Bridge (adb)环境，并将其添加到环境变量，使其可以在命令提示符中直接通过"adb"命令调用，而无需填写其他路径 \n
 First, you need to deploy the Android Debug Bridge (adb) environment locally and add it to the environment variable so that it can be called directly from the Command Prompt through the "adb" command without filling in other paths 
 如果你还不了解什么是adb，可以参考这篇文章: https://developer.android.google.cn/tools/adb 
 If you are not familiar with what adb is, you can refer to this article: https://developer.android.google.cn/tools/adb 
