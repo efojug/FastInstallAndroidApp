@@ -2,6 +2,7 @@
 echo 该脚本支持一次性安装9个应用
 echo Developed by efojug
 echo 脚本路径: %0%
+adb version
 adb kill-server
 adb start-server
 if (%1%) neq () goto 1
